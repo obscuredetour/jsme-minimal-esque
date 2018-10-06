@@ -1,0 +1,45 @@
+{{ partial "header" . }}
+
+<main>
+    <section class="banner">
+        <figure class="banner-image item-full-image"></figure>
+        <div class="banner-title">
+            <h1>{{ .Site.Title }}</h1>
+            <h2>{{ markdownify .Site.Params.Description }}</h2>
+        </div>
+    </section>
+
+    <div class="inner">
+
+        <section class="intro">
+            {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
+            
+            <p class="intro-subtitle">I am a web developer, scientist, and lover of Earth processes. I love to research, <em>learn</em>, think, create, tinker, and write. Some things I enjoy are here.</p>
+            <div class="item-card-tags">
+                <!-- Or lets snowboard, hike, throw a frisbee, and  -->
+                <a href="/tags/web-development"><kbd class="item-tag">web-development</kbd></a>
+                <a href="/tags/design"><kbd class="item-tag">design</kbd></a>
+                <a href="/tags/computer-hardware"><kbd class="item-tag">computer-hardware</kbd></a>
+                <a href="/tags/philosophy"><kbd class="item-tag">philosophy</kbd></a>
+                <a href="/tags/ethics"><kbd class="item-tag">ethics</kbd></a>
+                <a href="/tags/environment"><kbd class="item-tag">environment</kbd></a>
+                <a href="/tags/books"><kbd class="item-tag">books</kbd></a>
+                <a href="/tags/fiction"><kbd class="item-tag">fiction</kbd></a>
+                <a href="/tags/snowboarding"><kbd class="item-tag">snowboarding</kbd></a>
+                <a href="/tags/hiking"><kbd class="item-tag">hiking</kbd></a>
+                <a href="/tags/video-games"><kbd class="item-tag">video-games</kbd></a>
+                <a href="/tags/technology"><kbd class="item-tag">technology</kbd></a>
+            </div>
+
+            <h3 class="intro-title">Latest</h3>
+    
+            <div class="latest">
+                {{ range (.Paginator 4).Pages }} {{ partial "list-card" . }} {{ end }}
+            </div>
+        </section>
+
+    </div>
+
+</main>
+
+{{ partial "footer" . }}
