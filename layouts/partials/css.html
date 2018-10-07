@@ -13,13 +13,9 @@
 </style>
 
 <!-- main -->
-<!-- <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/main.css"> -->
-<!-- <link rel="stylesheet" href="/css/main.css"> -->
-<!-- <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/custom.css"> -->
-<!-- <link rel="stylesheet" href="/css/custom.css"> -->
-<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="css/style.css">
 <!-- <link rel="stylesheet" href="/js/duty.js"> -->
-<!-- <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/custom.css"> -->
+<link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
 
 <!-- custom -->
 {{ range .Site.Params.css }} <link rel="stylesheet" href="{{ . }}"> {{ end }}

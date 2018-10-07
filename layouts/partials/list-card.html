@@ -17,7 +17,7 @@
   {{ with .Description }} {{ $.Scratch.Set "subtitle" . }} {{ end }}
 
   <a class="item-card-image-link" href='{{ .Scratch.Get "link" }}'>
-    <div class="item-card-image" style="background-image: url({{ .Params.image }})"></div>
+    <div class="item-card-image" style="background-image: url( {{ .Params.image }} )"></div>
   </a>
   <article class="item-card-content">
     <a href='{{ .Scratch.Get "link" }}' class="item-card-content-link">
