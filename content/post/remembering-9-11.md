@@ -1,11 +1,11 @@
 ---
-title: Remembering 9/11
+title: "Remembering 9/11"
 date: "2018-09-11"
 time: "5"
 draft: false
 image: '/images/911-memorial.jpg'
 description: 'Why? We remember for the all the lives cut short so unfairly. We should remember that day and the days following it...'
-tags: [opinion, philosophy, ethics]
+tags: ["opinion", "philosophy", "ethics"]
 ---
 
 ### Why?

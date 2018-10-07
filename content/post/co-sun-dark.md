@@ -1,10 +1,10 @@
 ---
-title: Colorado Sun dark theme
-date: "2018-09-23"
+title: "Colorado Sun dark theme"
+date: 2018-09-23
 time: "4"
 image: "/images/co-sun-bkg.jpg"
 description: 'The Colorado Sun is great and brilliantly designed, but after too much reading the white background can be glaring.'
-tags: [web-development, design, css]
+tags: ["web-development", "design", "css"]
 ---
 
 # Dark theme for coloradosun.com
