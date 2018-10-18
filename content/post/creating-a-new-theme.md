@@ -2,7 +2,7 @@
 title: "Creating a New Theme"
 date: 2018-08-28
 tags: ["go", "golang", "hugo", "web-development"]
-draft: false
+draft: true
 noImage: 'no-image'
 ---
 

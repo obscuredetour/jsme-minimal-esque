@@ -1,4 +1,4 @@
-baseURL = "https://blog.jeffreysummers.me/"
+baseURL = "https://blog.jeffreysummers.me"
 languageCode = "en-us"
 title = "Jeffrey Summers' blog"
 theme = "minimal-esque"

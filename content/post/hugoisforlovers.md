@@ -2,9 +2,9 @@
 title: "Getting Started with Hugo"
 date: 2018-10-05
 tags: ["hugo", "web-development"]
-draft: false
+draft: true
 time: "4"
-image: 'https://ember-ghost-casper-template.netlify.com/images/welcome.jpg'
+image: '/images/hugo-logo-banner.svg'
 description: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ratione porro eos doloribus beatae quasi eligendi.'
 ---
 
