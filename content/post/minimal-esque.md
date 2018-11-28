@@ -4,7 +4,7 @@ date: 2018-10-07
 tags: ["hugo", "web-development", "sass", "css"]
 draft: false
 time: "4"
-image: '/images/hugo-logo-banner.svg'
+image: '/images/hugo-logo-banner.png'
 description: 'A quick and lightweight fully responsive dark theme for Hugo.'
 ---
 

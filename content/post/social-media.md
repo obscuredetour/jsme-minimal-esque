@@ -7,7 +7,7 @@ description: 'Perhaps, the greatest challenge of our time is the span of our att
 tags: ["opinion", "social-media", "philosophy"]
 ---
 
-# Social media is specious
+# Social media is specious entertainment
 
 The easiest determination to not participate in social media is that none of the social media companies share my values. Their practices are unsavory. It's known that social media companies hire attention engineers, just like casinos, to make their platforms as addictive as possible. This maximizes “[profit based on their users attention and data](https://youtu.be/3E7hkPZ-HTk?t=253).” Facebook lies about its abilities to affect and manipulate individuals with the data it collects on them, according to a [former Facebook exective](https://www.theguardian.com/technology/2017/may/02/facebook-executive-advertising-data-comment).
 
