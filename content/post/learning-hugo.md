@@ -66,4 +66,4 @@ You can even notice I am lazy enough that my hamburger menu style is the same ev
 <p data-height="449" data-theme-id="0" data-slug-hash="XxNWLY" data-default-tab="css,result" data-user="obscuredetour" data-pen-title="Simply Navigation" class="codepen">See the Pen <a href="https://codepen.io/obscuredetour/pen/XxNWLY/">Simply Navigation</a> by Jeffrey (<a href="https://codepen.io/obscuredetour">@obscuredetour</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-That all took way longer than I had anticipated...
+That all took way longer than I had anticipated... Needless to say, don't let a project that spawns others get you down. Slowly, but surely.
