@@ -1,13 +1,13 @@
 ---
 title: "Why I Don't Have Social Media"
-date: 2018-11-28
+date: 2018-11-27
 time: "3"
 image: "/images/social-media.png"
 description: 'Perhaps, the greatest challenge of our time is the span of our attention. Social media is developed to fragment our attention all hours of the day.'
 tags: ["opinion", "social-media", "philosophy"]
 ---
 
-# There are no social media links. Here's why.
+# Social media is specious
 
 The easiest determination to not participate in social media is that none of the social media companies share my values. Their practices are unsavory. It's known that social media companies hire attention engineers, just like casinos, to make their platforms as addictive as possible. This maximizes “[profit based on their users attention and data](https://youtu.be/3E7hkPZ-HTk?t=253).” Facebook lies about its abilities to affect and manipulate individuals with the data it collects on them, according to a [former Facebook exective](https://www.theguardian.com/technology/2017/may/02/facebook-executive-advertising-data-comment).
 
