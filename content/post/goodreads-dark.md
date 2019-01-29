@@ -23,7 +23,7 @@ This ended up being a much larger project than I originally thought. By far the 
 I finished Fonda Lee's [Jade City](https://www.goodreads.com/book/show/34606064-jade-city) in November and it left an impact when I initially started this project. The goodreads default link color is `hsl(176, 100%, 19%)`. A green that instantly made me think of *Jade City*.
 
 The final *jade* color palette I came up with is below. These are all the greens used throughout the dark theme. Some examples are links, buttons, hover effects, text highlights, accent borders, progress bars, & more.
-{{< figure class="image fit" src="/images/jade-palette.png" alt="Jade color palette">}}
+{{< figure class="image fit -mb-sm" src="/images/jade-palette.png" alt="Jade color palette">}}
 <small>Image made with [Color Deck](https://color.obscuredetour.com)</small>
 
 I'll update the post with the background color palette as well.
@@ -35,6 +35,11 @@ I took some liberties with some aesthetics. My goal was to reduce clutter and ov
 - Removed **so many borders**!
 - Increased padding here and there.
 - Increased border radius here and there for more inviting feel.
+
+## Preview
+
+{{< figure class="image fit" src="/images/ss-gr-recent-zerosat.png" alt="Goodreads dark jade theme -zero saturation">}}
+[Full resolution](/images/ss-gr-recent-zerosat.png)
 
 ### Find a bug?
 

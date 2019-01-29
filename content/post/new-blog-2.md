@@ -17,8 +17,6 @@ Many months later from the "New blog" post. This all seems very familiar.
 I have now read the sequel to [Red Sister](https://www.goodreads.com/book/show/25895524-red-sister)
 
 #### [Grey Sister](https://www.goodreads.com/book/show/25895524-red-sister) by Mark Lawrence.
-adfadf
-lorem10adslfjasdf 
 
  * [Steal Like an Artist](https://www.goodreads.com/book/show/13099738-steal-like-an-artist) by Austin Kleon
  * [Show Your Work!](https://www.goodreads.com/book/show/18290401-show-your-work) by Austin Kleon

@@ -11,11 +11,11 @@ googleAnalytics = ""
     githubUsername = "obscuredetour"
     accent = "#318c63"
     showBorder = true
-    backgroundColor = "#1d1d1d"
-    font = "Open Sans" # should match the name on Google Fonts!
+    #backgroundColor = "#1d1d1d"
+    #font = "Open Sans" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "tomorrow-night"
-    highlightLanguages = ["go", "js", "html", "css", "sass"]
+    highlightLanguages = ["go", "javascript", "xml", "css", "scss"]
 
 [[menu.main]]
     url = "https://www.jeffreysummers.me"
